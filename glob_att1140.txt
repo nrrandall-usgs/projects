@@ -1,0 +1,25 @@
+	SciPi; C. Sherwood
+    PROJECT; USGS Coastal and Marine Geology Program
+    EXPERIMENT; DUNEX
+    DESCRIPTION; Cape Hatteras National Seashore, Pea Island, NC
+    DATA_SUBTYPE; POLE-MOUNTED
+    DATA_ORIGIN; USGS WHCMSC Coastal and Estuarine Dynamics Group
+    COORD_SYSTEM; GEOGRAPHIC
+    Conventions; CF-1.6
+    MOORING; 1140
+    WATER_DEPTH; 0.0
+    WATER_DEPTH_NOTE; (meters), nominal depth
+    latitude; 35.677574
+    longitude; -75.47939
+    magnetic_variation; -11.03
+    Deployment_date; 2021-09-20 16:43
+    Recovery_date; 2021-10-06 17:20
+    DATA_CMNT; Magnetic declination determined using https://www.ngdc.noaa.gov/geomag/declination.shtml IGRF model
+    platform_type; POLE
+    DRIFTER; 0
+    POS_CONST; 0
+    DEPTH_CONST; 0
+    WATER_MASS; Atlantic Ocean, Pea Island, NC
+    VAR_FILL; 1.e+35
+    institution; United States Geological Survey, Woods Hole Coastal and Marine Science Center
+    institution_url; https://woodshole.er.usgs.gov

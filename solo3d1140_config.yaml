@@ -1,0 +1,9 @@
+basefile: '208010_20211009_0738'
+filename: '1140solo3d' # name of output file, -raw.cdf or .nc will be appended to this
+LatLonDatum: 'NAD83'
+ClockError: 0
+initial_instrument_height: 0.32  # meters - estimated!!!
+initial_instrument_height_note: 'meters - estimated'
+instrument_type: 'rbr_virtuoso'
+recording_type: 'continuous'
+wave_interval: 0.125
